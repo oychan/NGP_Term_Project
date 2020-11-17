@@ -1,0 +1,1 @@
+NGP Term Project를 위한 Git 저장소입니다.
